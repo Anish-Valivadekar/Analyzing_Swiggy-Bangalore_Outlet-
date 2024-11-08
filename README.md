@@ -16,16 +16,13 @@ Visualizations: Use data visualization techniques to present key insights in a c
 📂 Project Workflow
 
 Data Loading and Inspection:
-
 Importing the dataset using Pandas.
 Displaying the first few rows, shape, columns, and basic information to understand the dataset.
 
 Exploratory Data Analysis (EDA):
-
 Basic Statistics: Summary statistics to understand the range, mean, and distribution of numerical features.
 
 Visualizations:
-
 Cost for Two Distribution: Analyzing the typical price range for dining.
 Cuisine Popularity: Counting the number of shops for each cuisine type.
 Average Ratings by Location: Understanding which areas have higher-rated restaurants.
