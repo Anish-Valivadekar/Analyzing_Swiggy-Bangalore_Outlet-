@@ -37,6 +37,7 @@ Seaborn & Matplotlib: For creating visualizations and plots.
 
 
 📈 Results and Conclusions
+
 The analysis reveals that customers in Bangalore have a diverse range of cuisine preferences, with a significant inclination towards North Indian and Fast Food.
 The cost for two people generally falls within an affordable range, with no strong link between high cost and high ratings.
 Specific locations have consistently high ratings, which can help Swiggy optimize its restaurant recommendations and marketing strategies.
