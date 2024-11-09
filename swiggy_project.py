@@ -20,6 +20,10 @@ print(swiggy_data.info())                                                       
 
 
 # Exploratory Data Analysis (EDA)
+
+#Check for missing values
+print(data.isnull().sum())
+
 # Basic Statistics
 print(swiggy_data.describe())
 
